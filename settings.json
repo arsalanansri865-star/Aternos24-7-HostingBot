@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "ONLINE
+    "type": "offline"
   },
   "server": {
-    "ip": "frozenurdad.aternos.me:26989
+    "ip": "frozenurdad.aternos.me
     "port": 26989
     "version": "1.21.1"
   },
