@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "ONLINE
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "frozenurdad.aternos.me:26989
+    "port": 26989
     "version": "1.21.1"
   },
   "position": {
